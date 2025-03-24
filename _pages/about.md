@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Hanzhi You.
-CSE MPhil student | Co-Founder of @YQuotient | Large Language Model, Optimization Algorithms and Robotic
-currently learning Recommendation Algorithms
+This is Hanzhi You, i am a CSE MPhil student & Co-Founder of @YQuotient. I am interested in Large Language Model, Optimization Algorithms and Robotic, while currently learning Recommendation Algorithms
 
 <!--
 Publications
