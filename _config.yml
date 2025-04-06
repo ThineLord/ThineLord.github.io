@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Hanzhi HomePage"
+title                    : "HomePage"
 title_separator          : "-"
 name                     : &name "Hanzhi"
 description              : &description "enjoy."
@@ -27,9 +27,9 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "夜阑卧听风吹雨，铁马冰河入梦来。"
   location         : "GuangZhou"
-  employer         : "SCNU"
+  employer         : "HKUST"
   uri              : # URL
-  email            : "yhz2243920916@gmail.com" 
+  email            : # e-mail
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -64,10 +64,10 @@ author:
   medium           : # URL
   pinterest        : # Username
   soundcloud       : # Username
-  steam            : "静时念念"
+  steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "@HanzU291805"
+  twitter          : "@Hanzhi_U"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
